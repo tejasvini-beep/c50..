@@ -1,0 +1,25 @@
+h1{
+    color: aquamarine;
+
+}
+body{
+    background-color: rgb(0, 195, 255);
+}
+
+  
+.header{
+    background-color: cadetblue ;
+   
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
